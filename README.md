@@ -18,7 +18,7 @@ The creater of a channel can post new reminder in the channel. All subscribers w
 
 The creater of a channel can edit reminders in the channel. And it affect to subscribers.
 
-Reminders in timeline (not including logs) will be removed if a user unsubscribe a channel.
+Reminders will **NOT** be removed if a user unsubscribe a channel. But they will not update any more.
 
 ## JSON API
 
