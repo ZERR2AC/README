@@ -9,7 +9,7 @@ Users in Codo can create a channel.
 ### Channel
 
 Users can create a channel and fetch all channels in Codo server.
-Users can subscribe or unsubscribe **any** channel freely.
+Users can subscribe or unsubscribe **ANY** channel freely.
 The creater of a channel can unsubscribe (or exit) the channel. But the channel will not be deleted.
 
 ### Reminder
@@ -20,7 +20,7 @@ The creater of a channel can post new reminder in the channel. All subscribers w
 
 Reminders will **NOT** be removed if a user unsubscribe a channel. But they will not receive any more.
 
-The creater of a channel can edit reminders in the channel. And it will affect to subscribers' reminders even if subscribers have unsubscribe the channel.
+The creater of a channel can edit reminders in the channel. And it will affect to subscribers' reminders **EVEN IF** subscribers have unsubscribe the channel.
 
 #### Local Reminder
 
