@@ -14,11 +14,17 @@ The creater of a channel can unsubscribe (or exit) the channel. But the channel 
 
 ### Reminder
 
+#### Remote Reminder
+
 The creater of a channel can post new reminder in the channel. All subscribers will receive the reminder and insert to his timeline.
 
-The creater of a channel can edit reminders in the channel. And it affect to subscribers.
+Reminders will **NOT** be removed if a user unsubscribe a channel. But they will not receive any more.
 
-Reminders will **NOT** be removed if a user unsubscribe a channel. But they will not update any more.
+The creater of a channel can edit reminders in the channel. And it will affect to subscribers' reminders even if subscribers have unsubscribe the channel.
+
+#### Local Reminder
+
+The reminder created by users. User can edit its information.
 
 ## JSON API
 
@@ -26,7 +32,7 @@ Please visit [Codo-API Wiki](https://github.com/ZERR2AC/Codo-API/wiki)
 
 ## Web App
 
-TBD
+Please visit [Codo-app](https://github.com/ZERR2AC/Codo-app)
 
 ## Android App
 
