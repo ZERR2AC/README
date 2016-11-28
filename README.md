@@ -32,7 +32,7 @@ Please visit [Codo-API Wiki](https://github.com/ZERR2AC/Codo-API/wiki)
 
 ## Web App
 
-Please visit [Codo-app](https://github.com/ZERR2AC/Codo-app)
+Please visit [Codo-angular2](https://github.com/ZERR2AC/Codo-angular2)
 
 ## Android App
 
